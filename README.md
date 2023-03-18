@@ -1,2 +1,2 @@
 # C-Tutorials
-includes all the programs which has beed practiced by me in college
+includes all the programs which has been practiced by me in college
